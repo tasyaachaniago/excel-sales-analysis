@@ -17,4 +17,4 @@ The dataset contains:
 The project explanation will be completed in class.
 ## Dashboard
 
-![Dashboard](Dashboard1.png)
+![Dashboard](Dashboard.png)
