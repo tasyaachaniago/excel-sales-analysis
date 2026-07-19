@@ -15,3 +15,6 @@ The dataset contains:
 - Files will be added later in class
 ## Notes
 The project explanation will be completed in class.
+## Dashboard
+
+![Dashboard](Dashboard1.png)
